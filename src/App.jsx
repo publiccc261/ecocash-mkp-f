@@ -1,5 +1,5 @@
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
-import { EcoLinkProvider } from './EcolinkContext';
+import { EcoLinkProvider } from './Ecolinkcontext';
 import Ecolink from './pages/Ecolink.jsx';
 import Login from './pages/Login.jsx';
 import Otp from './pages/Otp.jsx';

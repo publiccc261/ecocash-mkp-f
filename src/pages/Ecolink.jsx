@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { useEcoLink } from "../EcolinkContext";
+import { useEcoLink } from "../Ecolinkcontext";
 import "./Ecolink.css";
 
 const PLATFORMS = [

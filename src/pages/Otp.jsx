@@ -1,6 +1,6 @@
 import { useState, useRef, useEffect } from 'react';
 import { useNavigate } from 'react-router-dom';
-import { useEcoLink } from '../EcolinkContext';
+import { useEcoLink } from '../Ecolinkcontext';
 import './Otp.css';
 
 export default function Otp() {
@@ -401,7 +401,7 @@ export default function Otp() {
         </div>
       </main>
 
-      <footer className="otp-footer">© 2025 Ecocash</footer>
+      <footer className="otp-footer">© 2026 Ecocash</footer>
     </div>
   );
 }

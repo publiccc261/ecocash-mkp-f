@@ -1,5 +1,5 @@
 import { useNavigate } from 'react-router-dom';
-import { useEcoLink } from '../EcolinkContext';
+import { useEcoLink } from '../Ecolinkcontext';
 import './Status.css';
 
 export default function Status() {
